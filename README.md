@@ -8,4 +8,4 @@ I'm a beginner programmer with a BS in Environmental Science from Wayne State Un
 
 
 🤳 Connect with me:
-www.linkedin.com/in/rachel-curran-ba23a7303
+[LinkedIn](www.linkedin.com/in/rachel-curran-ba23a7303)
