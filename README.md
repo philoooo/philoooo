@@ -5,7 +5,7 @@ I'm a beginner programmer with a BS in Environmental Science from Wayne State Un
 <h2> Projects:</h2>
 
 - <b>[Garden-Topia: Garden Simulator Text Based Game](https://github.com/philoooo/DataQuest/blob/main/GardenTopia.ipynb)
-
+- <b>[Food Ordering App](https://github.com/philoooo/DataQuest/blob/main/QuickEatz.ipynb)
 
 🤳 Connect with me:
 [LinkedIn](www.linkedin.com/in/rachel-curran-ba23a7303)
