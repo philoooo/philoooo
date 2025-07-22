@@ -12,7 +12,7 @@ Power BI
 - <b>[Store Sales Data Modeling](https://drive.google.com/file/d/1e_zpG72L79UUOtFAm0twkTmSKe_xTU6u/view?usp=sharing)
 
  SQL
-- <b>[Resturant Order Analysis](https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL)
+- <b>[Resturant Order Analysis]([https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL](https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL/blob/main/Resturant%20Data%20Analysis.sql))
   
 </b>
 </h2>
