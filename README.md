@@ -9,8 +9,8 @@ I'm a beginner programmer with a BS in Environmental Science from Wayne State Un
   <b>
 - <b>[Power BI Store Sales Data Modeling](https://drive.google.com/file/d/1e_zpG72L79UUOtFAm0twkTmSKe_xTU6u/view?usp=sharing)
 
-<h2>
--<b>
+<h2> SQL
+- <b>[Resturant Order Analysis](https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL)
   
 </b>
 </h2>
