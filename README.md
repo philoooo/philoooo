@@ -10,6 +10,7 @@ Python
 - <b>[Food Ordering App](https://github.com/philoooo/DataQuest/blob/main/QuickEatz.ipynb)
   
 Power BI
+- <b>[Toy Store KPI Report](https://drive.google.com/file/d/1wp2P1sflpjU3sshp1laXSMC9QOY_ArS6/view?usp=drive_link)
 - <b>[Store Sales Data Modeling](https://drive.google.com/file/d/1e_zpG72L79UUOtFAm0twkTmSKe_xTU6u/view?usp=sharing)
 
  SQL
