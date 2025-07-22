@@ -5,6 +5,7 @@ I'm a beginner programmer with a BS in Environmental Science from WSU in Detroit
 <h2> Projects:</h2>
 Python
   
+- <b>[Airbnb Listing Analysis](https://github.com/philoooo/Projects/blob/main/Airbnb.ipynb)
 - <b>[Garden-Topia: Garden Simulator Text Based Game](https://github.com/philoooo/DataQuest/blob/main/GardenTopia.ipynb)
 - <b>[Food Ordering App](https://github.com/philoooo/DataQuest/blob/main/QuickEatz.ipynb)
   
