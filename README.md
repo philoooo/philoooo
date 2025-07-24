@@ -14,6 +14,7 @@ Power BI
 - <b>[Store Sales Data Modeling](https://drive.google.com/file/d/1e_zpG72L79UUOtFAm0twkTmSKe_xTU6u/view?usp=sharing)
 
  SQL
+- <b>[Library Management System](https://github.com/philoooo/Library-Management-System)
 - <b>[Retail Sales Analysis](https://github.com/philoooo/Retail-Sales-P1/blob/main/README.md)
 - <b>[Resturant Order Analysis](https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL/blob/main/Resturant%20Data%20Analysis.sql)
   
