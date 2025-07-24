@@ -1,7 +1,7 @@
 
 
 <h1>Hi I'm Rachel, Welcome to My GitHub! </a></h1>
-I'm a beginner programmer with a BS in Environmental Science from WSU in Detroit, MI. I have a strong interest in data analytics. <h2>
+I have a strong interest in data analytics. <h2>
 <h2> Featured Projects:</h2>
 Python
   
