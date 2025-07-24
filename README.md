@@ -3,7 +3,8 @@
 <h1>Hi I'm Rachel, Welcome to My GitHub! </a></h1>
 I have a strong interest in data analytics. <h2>
 <h2> Featured Projects:</h2>
-**Python**
+</b>
+Python
   
 - <b>[Airbnb Listing Analysis](https://github.com/philoooo/Projects/blob/main/Airbnb.ipynb)
 - <b>[Garden-Topia: Garden Simulator Text Based Game](https://github.com/philoooo/DataQuest/blob/main/GardenTopia.ipynb)
