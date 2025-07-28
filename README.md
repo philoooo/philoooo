@@ -23,6 +23,10 @@
   <li><a href="https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL/blob/main/Resturant%20Data%20Analysis.sql"><b>Restaurant Order Analysis</b></a></li>
 </ul>
 
+<h3> Excel</h3>
+<ul>
+<li><a href="https://github.com/philoooo/Bike-Sales-Dashboard/blob/main/README.md"><b>Bike Sales Customer Analysis</b></a></li>
+
 <h2>🤝 Connect With Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/rachel-curran-ba23a7303" target="_blank">LinkedIn</a>
