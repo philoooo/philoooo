@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rachel – Welcome to My GitHub! </h1>
 <p>I have a strong interest in data analytics and enjoy working with Python, SQL, and Power BI to uncover insights and create data-driven solutions.</p>
 
-<h2>📌 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
 <h3> Python</h3>
 <ul>
@@ -35,7 +35,7 @@
 <li><a href="https://github.com/philoooo/Tableau-Airbnb-Listings/blob/main/README.md"><b>Seattle Airbnb Listing Dashboard</b></a></li>
 </ul>
  
-<h2>🤝 Connect With Me</h2>
+<h2> Connect With Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/rachel-curran-ba23a7303" target="_blank">LinkedIn</a>
 </p>
