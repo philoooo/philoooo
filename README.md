@@ -12,6 +12,7 @@
 
 <h3> Power BI</h3>
 <ul>
+  <li><a href="https://github.com/philoooo/Power-BI-Survey-Data-"><b>Data Professionals Surveys Dashboard</b></a></li>
   <li><a href="https://drive.google.com/file/d/1wp2P1sflpjU3sshp1laXSMC9QOY_ArS6/view?usp=drive_link"><b>Toy Store KPI Report</b></a></li>
   <li><a href="https://drive.google.com/file/d/1e_zpG72L79UUOtFAm0twkTmSKe_xTU6u/view?usp=sharing"><b>Store Sales Data Modeling</b></a></li>
 </ul>
