@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rachel, welcome to my GitHub! </h1>
+<h1>Hello I'm Rachel, welcome to My GitHub! </h1>
 <p>I'm a recent grad working as an analyst, working on developing my programming skills. Right now, I'm continuing my self learning of python, and I hope to next focus on web design. Thanks for checking out my page!</p>
 
 <h2> Featured Projects</h2>
