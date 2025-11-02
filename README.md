@@ -16,7 +16,7 @@
   <li><a href="https://github.com/philoooo/Bitcoin-Dashboard/blob/main/README.md"><b>Bitcoin Data Analysis</b></a></li>
   <li><a href="https://github.com/philoooo/Projects/blob/main/Airbnb.ipynb"><b>Airbnb Listing Analysis</b></a></li>
   <li><a href="https://github.com/philoooo/DataQuest/blob/main/GardenTopia.ipynb"><b>Garden-Topia: Garden Simulator Text-Based Game</b></a></li>
-  <li><a href="https://github.com/philoooo/DataQuest/blob/main/QuickEatz.ipynb"><b>Food Ordering App</b></a></li>
+  <li><a href="https://github.com/philoooo/Hirst-Painting-Project"><b>Hirst Painting</b></a></li>
   <li><a href="https://github.com/philoooo/BMI-Calculator/blob/main/BMI%20Calculator.ipynb"><b>BMI Calculator</b></a></li>
 </ul>
 
