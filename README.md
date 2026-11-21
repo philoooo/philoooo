@@ -5,6 +5,7 @@
 
 <h3> SQL</h3>
 <ul>
+  <li><a href="https://github.com/philoooo/spotify-listening-history-analysis"><b>Spotify Listening History Analysis</b></a></li>
   <li><a href="https://github.com/philoooo/Library-Management-System"><b>Library Management System</b></a></li>
   <li><a href="https://github.com/philoooo/Retail-Sales-P1/blob/main/README.md"><b>Retail Sales Analysis</b></a></li>
   <li><a href="https://github.com/philoooo/Restaurant-Order-Analysis-in-SQL/blob/main/Resturant%20Data%20Analysis.sql"><b>Restaurant Order Analysis</b></a></li>
